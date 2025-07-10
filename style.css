@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f9fa;
+}
+
+#todoList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #6c757d;
+}
